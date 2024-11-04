@@ -7,7 +7,7 @@ Full Stack Developer
 As a seasoned Full Stack Developer, I excel in crafting robust and efficient web and mobile applications through a mastery of object-oriented design principles, data structures, and creative problem-solving. My extensive skill set encompasses a wide range of technologies and tools.
 
 * 🌍  I'm based in Dominican Republic
-* 🖥️  See my portfolio at [LinkeDin](http://www.linkedin.com/in/angelleger/)
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/angelleger/)
 * ✉️  You can contact me at [angel.leger89@gmail.com](mailto:angel.leger89@gmail.com)
 
 ### Skills
