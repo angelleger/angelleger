@@ -1,76 +1,74 @@
-Hi there 👋  
-My name is Angel Leger  
+Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" /> My name is Angel Leger
 ===================================================================================================================================
 
-Full Stack Developer
---------------------
-
-I’m a Full Stack Developer focused on building scalable, high-performance web and mobile applications. I specialize in designing robust architectures, optimizing systems, and delivering clean, maintainable code.
-
-I have strong experience across frontend, backend, and cloud infrastructure, combining solid computer science fundamentals (data structures, algorithms, and OOP) with practical, real-world problem solving.
-
-Lately, I’ve been working with modern backend architectures using **NestJS** and exploring high-performance systems with **Rust**, especially for services that require speed, concurrency, and efficiency.
-
-* 🌍  Based in the Dominican Republic  
-* 🖥️  Portfolio: [LinkedIn](http://www.linkedin.com/in/angelleger/)  
-* ✉️  Contact: [angel.leger89@gmail.com](mailto:angel.leger89@gmail.com)  
+Full Stack Developer • Scalable Systems • High Performance
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 About Me
 
-#### 🧠 Languages
-JavaScript • TypeScript • PHP • Python • **Rust**
+I build scalable, high-performance applications across web and mobile.
 
-#### ⚙️ Backend
-Node.js • Express • **NestJS** • Laravel • GraphQL • REST APIs
-
-#### 🎨 Frontend
-React • Next.js • Remix • HTML • CSS • Tailwind • Sass • Redux
-
-#### 🗄️ Databases
-MySQL • PostgreSQL • MongoDB • Firebase
-
-#### ☁️ Cloud & DevOps
-AWS • Google Cloud • Docker • Linux • DigitalOcean
-
-#### 🧩 Other
-Web3 • MetaMask • IPFS • WordPress
+My focus is on backend architecture, system design, and performance optimization — combining modern frameworks like **NestJS** with high-efficiency systems using **Rust**.
 
 ---
 
-### 🛠️ Skills
+### 🧠 Tech Stack
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://nestjs.com/img/logo-small.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-</p>
+#### Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+
+#### Backend
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+#### DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
 ### 💡 What I Focus On
 
-- Scalable backend architectures (microservices, event-driven systems)
-- High-performance APIs and real-time systems
-- Clean, maintainable, and testable code
-- Cloud infrastructure and system optimization
-- Building products end-to-end (idea → production)
+- ⚡ Scalable backend architectures  
+- ⚡ High-performance APIs  
+- ⚡ Real-time systems (queues, streams, WebSockets)  
+- ⚡ Clean, maintainable code  
+
+---
+
+### 🌍 Connect
+
+- 💼 [LinkedIn](http://www.linkedin.com/in/angelleger/)
+- 📧 angel.leger89@gmail.com
 
 ---
 
 ### ⚡ Currently Exploring
 
-- Advanced **NestJS** patterns and architecture  
-- High-performance services with **Rust (Actix / Rocket)**  
-- Real-time systems at scale (queues, streams, WebSockets)  
+- Advanced **NestJS patterns**
+- High-performance systems with **Rust (Actix / Rocket)**
+- Distributed systems & scaling strategies
 
 ---
+
+<p align="center">
+  🚀 Always building. Always optimizing.
+</p>
